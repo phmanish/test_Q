@@ -1,0 +1,99 @@
+,breed,country,origin,coat,pattern
+0,Abyssinian,Ethiopia,Natural/Standard,Short,Ticked
+1,Aegean,Greece,Natural/Standard,Semi-long,Bi- or tri-colored
+2,American Curl,United States,Mutation,Short/Long,All
+3,American Bobtail,United States,Mutation,Short/Long,All
+4,American Shorthair,United States,Natural,Short,All but colorpoint
+5,American Wirehair,United States,Mutation,Rex,All but colorpoint
+6,Arabian Mau,Arabian Peninsula,Natural,Short,
+7,Australian Mist,Australia,Crossbreed,Short,Spotted and Classic tabby
+8,Asian,developed in the United Kingdom (founding stock from Asia),,Short,Evenly solid
+9,Asian Semi-longhair,United Kingdom,Crossbreed,Semi-long,Solid
+10,Balinese,developed in the United States (founding stock from Thailand),Crossbreed,Long,Colorpoint
+11,Bambino,United States,Crossbreed,Hairless/Furry down,
+12,Bengal,developed in the United States (founding stock from Asia),Hybrid,Short,Spotted/Marbled
+13,Birman,developed in France (founding stock from Burma),Natural,Semi Long,Colorpoint
+14,Bombay,developed in the United States (founding stock from Asia),Crossbred,Short,Solid
+15,Brazilian Shorthair,Brazil,Natural,Short,All
+16,British Semi-longhair,United Kingdom,,Medium,All
+17,British Shorthair,United Kingdom,Natural,Short,All
+18,British Longhair,United Kingdom,,Long,
+19,Burmese,Burma and Thailand,Natural,Short,Solid
+20,Burmilla,United Kingdom,Crossbreed,Short/Long,
+21,California Spangled,United States,Crossbreed,Short,Spotted
+22,Chantilly-Tiffany,United States,,,
+23,Chartreux,France,Natural,Short,Solid
+24,Chausie,France,Hybrid,Short,Ticked
+25,Cheetoh,United States,Hybrid Crossbreed,Short,Spotted
+26,Colorpoint Shorthair,,,Short,
+27,Cornish Rex,United Kingdom (England),Mutation,Rex,All
+28,Cymric or Manx Longhair,United Kingdom (Isle of Man),Natural/Mutation,Long,
+29,Cyprus,Cyprus,Natural,All,All
+30,Devon Rex,United Kingdom (England),Mutation,Rex,All
+31,"Donskoy, or Don Sphynx",Russia,,Hairless,
+32,Dragon Li,China,Natural,Short,Striped tabby
+33,"Dwarf cat, or Dwelf",,Crossbreed,,Hairless
+34,Egyptian Mau,Egypt,Natural,Short,Spotted
+35,European Shorthair,Finland and Sweden,Natural,Short,
+36,Exotic Shorthair,United States,Crossbreed,Short,All
+37,Foldex[4],Canada,Crossbreed,Short,All
+38,German Rex,East Germany,Mutation,Rex,
+39,Havana Brown,United Kingdom,,Short,Solid
+40,Highlander,United States,Crossbreed,Short/Long,All
+41,"Himalayan, or Colorpoint Persian",United States/United Kingdom,Crossbreed,Long,Colorpoint
+42,Japanese Bobtail,Japan,Natural,Short/Long,All but colorpoint and ticked
+43,Javanese,United States,Crossbreed,Long/Short,Colorpoint
+44,Karelian Bobtail,Western Russia,Natural,,
+45,Khao Manee,Thailand,Natural,Short,Solid
+46,Korat,Thailand,Natural,Short,Solid
+47,Korean Bobtail,Korea,Natural,Short/Long,Colorprint
+48,Korn Ja,Thailand,Natural,Short/Hairless,Solid
+49,"Kurilian Bobtail, or Kuril Islands Bobtail","Eastern Russia,Japan",Natural,Short/Long,
+50,LaPerm,United States,Mutation,Rex,All
+51,Lykoi,United States,Natural/Mutation,Partly Hairless,Ticked
+52,Maine Coon,United States,Natural,Long,All but colorpoint and ticked
+53,Manx,United Kingdom (Isle of Man),Mutation,Short/Long,All but colorpoint
+54,Mekong Bobtail,Russia,Natural/Mutation,Short,Colorpoint
+55,Minskin,United States,Crossbreed,Short/Hairless,All
+56,Munchkin,United States,Mutation,,
+57,Nebelung,United States,,Semi-long,Solid
+58,Napoleon,,,Long/short,Varied
+59,Norwegian Forest cat,Norway,Natural,Long,All but colorpoint
+60,Ocicat,United States,Crossbreed,Short,Spotted
+61,Ojos Azules,United States,,,
+62,Oregon Rex,United States,Mutation,Rex,
+63,Oriental Bicolor,,,,Bicolor
+64,Oriental Shorthair,,,Short,All but colorpoint
+65,Oriental Longhair,,,Semi-long,
+66,PerFoldæ(Experimental Breed - WCF),Europe,Crossbreed,Long,All
+67,Persian (Modern Persian Cat),Iran (Persia),Crossbreed,Long,All
+68,Persian (Traditional Persian Cat),Greater Iran,Natural,Long,All
+69,Peterbald,Russia,Crossbreed,Hairless,All
+70,Pixie-bob,United States,Natural,Short,Spotted
+71,Raas,Indonesia,Natural,Short,
+72,Ragamuffin,United States,Crossbreed,Long,All
+73,Ragdoll,United States,Crossbreed,Long,Colorpoint/Mitted/Bicolor
+74,Russian Blue,Russia,Natural,Short,Solid
+75,"Russian White, Black and Tabby",Australia,Crossbreed,Short,
+76,Sam Sawet,Thailand,Natural,Short,Solid
+77,Savannah,United States,Hybrid,Short,Spotted
+78,Scottish Fold,United Kingdom (Scotland),Natural/Mutation,Short/Long,All
+79,Selkirk Rex,United States,Mutation/Cross,Rex (Short/Long),All
+80,Serengeti,United States,Hybrid Crossbreed,Short,Spotted
+81,Serrade petit,France,Natural,Short,
+82,Siamese,Thailand,Natural,Short,Colorpoint
+83,Siberian,Russia,Natural,Semi-long,All
+84,Singapura,Singapore,Natural,Short,Ticked
+85,Snowshoe,United States,Crossbreed,Short,Colorpoint
+86,Sokoke,Kenya,Natural,Short,Classic tabby with ticking
+87,Somali,Somalia,Mutation,Long,Ticked
+88,Sphynx,Canada,Mutation,Hairless,All
+89,Suphalak,Thailand,Natural,Short,Solid
+90,Thai,Thailand,Natural,Short,Colorpoint
+91,Thai Lilac,Thailand,Natural,Short,Solid
+92,Tonkinese,Canada,Crossbreed,Short,Colorpoint/Mink/Solid
+93,Toyger,United States,Crossbreed,Short,Mackerel
+94,Turkish Angora,Turkey,Natural,Semi-long,All but colorpoint
+95,Turkish Van,developed in the United Kingdom (founding stock from Turkey),Natural,Semi-long,Van
+96,Ukrainian Levkoy,Ukraine,,Hairless,
+97,York Chocolate,United States (New York),Natural,Long,Solid
